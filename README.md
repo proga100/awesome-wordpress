@@ -10,6 +10,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 	- [Plugins](#plugins)
 		- [Featured Plugins](#featured-plugins)
 		- [SEO](#seo)
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) - AI-powered alt text generator and WCAG 2.1 compliance checker for WordPress. Bulk generation, rule-based templates (free, offline), 5-status quality scoring. SaaS platform at altaudit.com.
 		- [Dev](#dev-plugins)
 		- [Custom Post Type](#custom-post-type)
 		- [Installer and Generators](#installer-and-generators)
